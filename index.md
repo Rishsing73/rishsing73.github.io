@@ -1,4 +1,4 @@
-# RISHABH SINGHAL
+# RISHABH SINGHAL 
 
 I am a BS-MS(2016-2020) student at IISER Pune, INDIA. I like to study about Neural Information processing algorithms, Data science Techniques and Reinforcement Learning. In future I would like to study Retinal Data Processing. 
 
@@ -24,7 +24,7 @@ In summer 2019 I did an internship at the university of Michigan under the super
 
 **Bold** and _Italic_ and `Code` text
 [Dr. Collins Assisi](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home)
-[Link](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home) and ![Image](src)
+[Link](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home) and ![Image](/rishsing.github.io/master/IMG_2129.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

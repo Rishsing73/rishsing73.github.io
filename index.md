@@ -1,18 +1,19 @@
-## Welcome to GitHub Pages
+# RISHABH SINGHAL
 
-You can use the [editor on GitHub](https://github.com/Rishsing73/rishsing73.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a BS-MS(2016-2020) student at IISER Pune, INDIA. I like to study about Neural Information processing algorithms, Data science Techniques and Reinforcement Learning. In future I would like to study Retinal Data Processing. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Past Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Head Direction Model
 ```markdown
-Syntax highlighted code block
+I worked on this project in 2018 under the supervision of [https://sites.google.com/acads.iiserpune.ac.in/assisilab/home](Dr. Collins Assisi) at IISER PUNE. Using Fitzhugh nagumo Neurons, I tried to replicate the firing patterns of drosophila's  Head direction neurons present in central boldy complex. We achieved it by balancing Inhibitory & excitatory connections.
+Here is a short [https://drive.google.com/file/d/11LB9IjktjF1LsK5PVAuyA716SK-wxcAy/view?usp=sharing](report)
+```
+### Place cells in CA1 region
+```
+In summer 2019 I did an internship at the university of Michigan under the supervion of [Dr. Brendon Watson](https://medicine.umich.edu/dept/dcmb/brendon-watson-mdphd). The subject was to analyze spike-temporal data and correlate them with the recorded video sessions to find the place cells based upon their firing properties. Here is a short [https://drive.google.com/file/d/1EHgMXefZHKpm2vFrFAejOT0p85eW5-T_/view?usp=sharing](report) summarising that short adventure.
 
-# Header 1
-## Header 2
+```
 ### Header 3
 
 - Bulleted
@@ -24,7 +25,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

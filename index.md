@@ -5,16 +5,16 @@ I am a BS-MS(2016-2020) student at IISER Pune, INDIA. I like to study about Neur
 ## Past Projects
 
 ### Head Direction Model
-```markdown
-I worked on this project in 2018 under the supervision of [Dr. Collins Assisi](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home) at IISER PUNE. Using Fitzhugh nagumo Neurons, I tried to replicate the firing patterns of drosophila's  Head direction neurons present in central boldy complex. We achieved it by balancing Inhibitory & excitatory connections.
-Here is a short [https://drive.google.com/file/d/11LB9IjktjF1LsK5PVAuyA716SK-wxcAy/view?usp=sharing](report)
-```
-### Place cells in CA1 region
-```
-In summer 2019 I did an internship at the university of Michigan under the supervion of [Dr. Brendon Watson](https://medicine.umich.edu/dept/dcmb/brendon-watson-mdphd). The subject was to analyze spike-temporal data and correlate them with the recorded video sessions to find the place cells based upon their firing properties. Here is a short [https://drive.google.com/file/d/1EHgMXefZHKpm2vFrFAejOT0p85eW5-T_/view?usp=sharing](report) summarising that short adventure.
 
-```
-### Header 3
+I worked on this project in 2018 under the supervision of [Dr. Collins Assisi](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home) at IISER PUNE. Using Fitzhugh nagumo Neurons, I tried to replicate the firing patterns of drosophila's  Head direction neurons present in central boldy complex. We achieved it by balancing Inhibitory & excitatory connections.
+Here is a short [report](https://drive.google.com/file/d/11LB9IjktjF1LsK5PVAuyA716SK-wxcAy/view?usp=sharing) summarsining some of the results.
+
+### Place cells in CA1 region
+
+In summer 2019 I did an internship at the university of Michigan under the supervion of [Dr. Brendon Watson](https://medicine.umich.edu/dept/dcmb/brendon-watson-mdphd). The subject was to analyze spike-temporal data and correlate them with the recorded video sessions to find the place cells based upon their firing properties. Here is a short [report](https://drive.google.com/file/d/1EHgMXefZHKpm2vFrFAejOT0p85eW5-T_/view?usp=sharing) summarising that short adventure.
+
+
+## Projects in Progress
 
 - Bulleted
 - List
@@ -23,8 +23,8 @@ In summer 2019 I did an internship at the university of Michigan under the super
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Dr. Collins Assisi](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home)
+[Link](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home) and ![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

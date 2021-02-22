@@ -29,7 +29,7 @@ NumerAI is a crowdsourced hedgefund. They provide encrypted data with more than 
 
 **Bold** and _Italic_ and `Code` text
 [Dr. Collins Assisi](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home)
-[Link](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home) and ![Image](/rishsing.github.io/master/IMG_2129.jpg)
+[Link](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home) and ![Image](https://drive.google.com/file/d/1FH0JiySRFteQSbRboZX5275XE6etZROT/view?usp=sharing)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

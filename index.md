@@ -6,7 +6,7 @@ I am a BS-MS(2016-2021) student at IISER Pune, INDIA. I like to study about Neur
 
 ### Head Direction Model _(2018-2019)_
 
-I worked on this project in 2018 under the supervision of [Dr. Collins Assisi](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home) at IISER PUNE. Using Fitzhugh nagumo Neurons, I tried to replicate the firing patterns of drosophila's  Head direction neurons present in central boldy complex. We achieved it by balancing Inhibitory & excitatory connections.
+I worked on this project in 2018 under the supervision of [Dr. Collins Assisi](./https://sites.google.com/acads.iiserpune.ac.in/assisilab/home) at IISER PUNE. Using Fitzhugh nagumo Neurons, I tried to replicate the firing patterns of drosophila's  Head direction neurons present in central boldy complex. We achieved it by balancing Inhibitory & excitatory connections.
 Here is a short [report](https://drive.google.com/file/d/11LB9IjktjF1LsK5PVAuyA716SK-wxcAy/view?usp=sharing) summarsining some of the results.
 
 ### Place cells in CA1 region _(May-July,2019)_

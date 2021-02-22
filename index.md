@@ -1,6 +1,8 @@
-# **RISHABH SINGHAL** 
+# Hi
 
-I am a BS-MS(2016-2021) student at [IISER Pune](https://www.iiserpune.ac.in/), INDIA. I like to study about Neural Information processing algorithms, Data science Techniques and Reinforcement Learning. I am also an INSPIRE scholar (A fellowship awarded by governement odf INDIA to students studying Natural Science based upon academic performance). Recently, I have taken a interest in world History, Economics. [My CV](https://github.com/Rishsing73/rishsing73.github.io/blob/master/Rishabh_s_Resume.pdf)
+I am a BS-MS(2016-2021) student at [IISER Pune](https://www.iiserpune.ac.in/), INDIA. I like to study about Neural Information processing algorithms, Data science Techniques and Reinforcement Learning. I am also an INSPIRE scholar (A fellowship awarded by governement odf INDIA to students studying Natural Science based upon academic performance). Recently, I have taken a interest in world History, Economics. 
+
+# [My CV](https://github.com/Rishsing73/rishsing73.github.io/blob/master/Rishabh_s_Resume.pdf)
 
 # Work Experience
 
@@ -27,17 +29,17 @@ I have the preliminary results. however, There is still need for more accuracy.
 
 NumerAI is a crowdsourced hedgefund. They provide encrypted data with more than 300 features and participants can upload their predictions by trainning their models and using data science every week. It is a fun platform to learn and apply Data Science and develop skills. 
 
-**Bold** and _Italic_ and `Code` text
-[Dr. Collins Assisi](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home)
-[Link](https://sites.google.com/acads.iiserpune.ac.in/assisilab/home) and ![Image](https://drive.google.com/file/d/1FH0JiySRFteQSbRboZX5275XE6etZROT/view?usp=sharing)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Skills
 
-### Jekyll Themes
+* Matlab - 3.5/5
+* Python - 4/5
+* Gfortran - 3/5
+* Animal Handling - Rodents
+* Microscopy - 3/5
+* Machine Learning - 3.5/5
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rishsing73/rishsing73.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[rishabh.singhal@students.iiserpune.ac.in](rishabh.singhal@students.iiserpune.ac.in)

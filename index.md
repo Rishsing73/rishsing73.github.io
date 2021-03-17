@@ -3,7 +3,7 @@
 
 # Hi
 
-I am a BS-MS(2016-2021) student at [IISER Pune](https://www.iiserpune.ac.in/), INDIA. I like to study about Neural Information processing algorithms, Data science techniques and Reinforcement Learning. I am also an INSPIRE scholar (A fellowship awarded by government odf INDIA to students studying Natural Science based upon academic performance). Recently, I have taken a little interest in world History as a hobby. 
+I am a BS-MS(2016-2021) student at [IISER Pune](https://www.iiserpune.ac.in/), INDIA. I like to study about Neural Information processing algorithms, Data science techniques and Reinforcement Learning. I am also an INSPIRE scholar (A fellowship awarded by government of INDIA to students studying Natural Science based upon academic performance). Recently, I have taken a little interest in world History as a hobby. 
 
 # Work Experience
 

@@ -45,7 +45,7 @@ github_username: Rishsing73 # your GitHub user name
 x_username: rishabh9973 # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social:
-  logo: https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2764.svg
-  title: ❤️
-  url: https://www.linkedin.com/in/rishabh-singhal-8124451b8/
+# custom_social:
+#   logo: https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2764.svg
+#   title: ❤️
+#   url: https://www.linkedin.com/in/rishabh-singhal-8124451b8/

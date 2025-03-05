@@ -9,7 +9,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (8.0.1)
+    activesupport (7.2.2.1)
       base64
       benchmark (>= 0.3)
       bigdecimal
@@ -21,7 +21,6 @@ GEM
       minitest (>= 5.1)
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
-      uri (>= 0.13.1)
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
     base64 (0.2.0)
@@ -188,8 +187,7 @@ GEM
     mercenary (0.4.0)
     mini_mime (1.1.5)
     minitest (5.25.4)
-    multi_xml (0.7.1)
-      bigdecimal (~> 3.1)
+    multi_xml (0.6.0)
     namae (1.2.0)
       racc (~> 1.7)
     nokogiri (1.18.3-aarch64-linux-gnu)
@@ -225,6 +223,9 @@ GEM
     rexml (3.4.1)
     rouge (4.5.1)
     safe_yaml (1.0.5)
+    sass-embedded (1.85.1)
+      google-protobuf (~> 4.29)
+      rake (>= 13)
     sass-embedded (1.85.1-aarch64-linux-gnu)
       google-protobuf (~> 4.29)
     sass-embedded (1.85.1-aarch64-linux-musl)

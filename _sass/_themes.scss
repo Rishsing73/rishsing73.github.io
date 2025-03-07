@@ -5,13 +5,13 @@
 @use "sass:color";
 
 :root {
-  --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
-  --global-hover-text-color: #{$white-color};
+  --global-bg-color: #{$hell-bg}; /* New background from Hell palette */
+  --global-code-bg-color: #{$code-bg-color-light}; // unchanged
+  --global-text-color: #{$hell-text}; /* New text color from Hell palette */
+  --global-text-color-light: #{$grey-color}; // you may leave this as is or adjust if needed
+  --global-theme-color: #{$hell-theme}; /* New theme color from Hell palette */
+  --global-hover-color: #{$hell-theme}; /* New hover color from Hell palette */
+  --global-hover-text-color: #{$white-color}; // unchanged (or update if desired)
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
@@ -156,4 +156,7 @@ html[data-theme-setting="light"] {
     padding-top: 12px;
     display: block;
   }
+}
+.highlighted {
+  color: var(--global-theme-color);
 }

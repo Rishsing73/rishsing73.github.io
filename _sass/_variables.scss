@@ -5,6 +5,11 @@
 
 @use "sass:color";
 
+// Hell palette colors for light theme
+$hell-bg: #cfded7 !default; // Background
+$hell-text: #173746 !default; // Text (foreground)
+$hell-theme: #3e2423 !default; // Optional: Theme & hover color
+
 // Colors
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;

@@ -9,8 +9,8 @@ profile:
   image: rishabh.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="https://ebitzlab.com/">Ebitz lab</a></p>
-    <p><a href="https://www.umontreal.ca/">Universite de Montreal</a></p>
+    <p><a href="https://ebitzlab.com/">Ebitz lab,</a></p>
+    <p><a href="https://www.umontreal.ca/">Universite de Montreal,</a></p>
     <p>Montreal, Canada</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,15 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a PhD student at the <span class="highlighted">Ebitz lab, University of Montreal</span>, focusing on how the brain works, specifically in non-human primates. I'm midway through my PhD (hello, mid-PhD crisis!) and navigating the rollercoaster of experimental failures. While my heart lies in neuroscience, my interests span across reinforcement learning, colonial history, and wealth distribution.
 
-I am a PhD student at the **Ebitz lab, University of Montreal**, focusing on how the brain works, specifically in non-human primates. I'm midway through my PhD (hello, mid-PhD crisis!) and navigating the rollercoaster of experimental failures. While my heart lies in neuroscience, my interests span across reinforcement learning, colonial history, and wealth distribution.
+Here are some highlights of my research questions. If you want to dive deeper, check out my projects page. I believe we always ask three types of questions - _<span class="highlighted">What, How, and Why</span>_:
 
-Here are some highlights of my research questions. If you want to dive deeper, check out my projects page. I believe we always ask three types of questions - What, How, and Why:
+🧠 **_<span class="highlighted" >WHAT?</span>_** I give tiny electrical stimulations to specific brain regions and try to understand how the neural system responds to these disturbances - kind of like poking a complex machine to see how it works!
 
-🧠 **WHAT?** I give tiny electrical stimulations to specific brain regions and try to understand how the neural system responds to these disturbances - kind of like poking a complex machine to see how it works!
+🧠 **_<span class="highlighted">HOW?</span>_** To make sense of it all, we need mathematical models. I'm diving into various theoretical frameworks to find which ones least wrongly explain the mechanisms of exploration - a small step towards a unifying theory.
 
-🧠 **HOW (with math)?** To make sense of it all, we need mathematical models. I'm diving into various theoretical frameworks to find which ones least wrongly explain the mechanisms of exploration - a small step towards a unifying theory.
-
-🧠 **WHY?** I'm fascinated by why the brain evolved these specific mechanisms for exploration, though this evolutionary perspective might be beyond the scope of my PhD (one can dream, right?).
-
-
+🧠 **_<span class="highlighted">WHY?</span>_** I'm fascinated by why the brain evolved these specific mechanisms for exploration, though this evolutionary perspective might be beyond the scope of my PhD (one can dream, right?).

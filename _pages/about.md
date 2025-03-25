@@ -29,13 +29,13 @@ latest_posts:
 
 I am a PhD student at the <span class="highlighted">Ebitz lab, University of Montreal</span>, focusing on how the brain works, specifically in non-human primates. I'm midway through my PhD (hello, mid-PhD crisis!) and navigating the rollercoaster of experimental failures. While my heart lies in neuroscience, my interests span across reinforcement learning, colonial history, and wealth distribution.
 
-Here are some highlights of my research questions. If you want to dive deeper, check out my projects page. I believe we always ask three types of questions - _<span class="highlighted">What, How, and Why</span>_:
+Here are some highlights of my research questions. If you want to dive deeper, check out my projects page. Inspired by David Marr's influentiasl framework, I frame my research around three core questions—<span class="highlighted">What, How, and Why</span>—each reflecting <span class="highlighted">Marr's</span> distinct analytical levels:
 
-🧠 <span class="highlighted">WHAT?</span>
-I deliver tiny electrical stimulations to specific brain regions and observe how the neural system responds — like gently poking a complex machine to see what changes. This method helps us uncover causal links between brain activity and behavior. Lately, I’ve been especially interested in how these stimulations affect decision-making processes — particularly when individuals are deciding whether to stick with a known option (exploit) or try something new (explore). These simple choices reveal rich dynamics of cognition that span attention, motivation, and memory.
+🧠 <span class="highlighted">WHAT? (Implementational Level)</span> I deliver targeted electrical stimulations to specific brain regions, much like testing individual components of a complex system to see how each contributes to overall function. This implementational approach helps me uncover direct causal relationships between neural circuits and behavior. My recent interest lies in how these interventions affect decisions to exploit known rewards or explore novel options, illuminating underlying neural processes such as attention, motivation, and memory.
+{: .text-justify}
 
-🧠 <span class="highlighted">HOW?</span>
-To interpret the noisy beauty of neural data, I turn to models. Cognitive functions like exploration and exploitation don't live in a single brain area or follow simple rules — so I use mathematical frameworks, inspired by dynamical systems and AI to trace how decisions evolve over time.
+🧠 <span class="highlighted">HOW? (Algorithmic Level)</span> I employ computational models to interpret and decode complex neural data, akin to reverse-engineering the internal logic of a sophisticated computer program. Cognitive processes like exploration and exploitation span multiple brain regions and dynamic interactions; thus, I use mathematical frameworks inspired by dynamical systems and artificial intelligence to track the algorithmic progression of these decision-making behaviors over time.
+{: .text-justify}
 
-🧠 <span class="highlighted">WHY?</span>
-The deeper question — the one that keeps me up at night — is why the brain evolved these specific strategies in the first place. Why are we wired to sometimes play it safe and other times take wild leaps into the unknown? While this evolutionary lens might stretch beyond the technical scope of my PhD, it's the perspective that guides how I think about cognition: as something shaped not just by the brain, but by the ecological challenges it evolved to solve.
+🧠 <span class="highlighted">WHY? (Computational Level)</span> At the deepest level, I ask why evolution selected these particular cognitive strategies. What adaptive problems shaped our brain's tendency to balance safe choices with occasional leaps into uncertainty? While addressing these computational-level evolutionary questions extends beyond my immediate PhD scope, this perspective fundamentally influences how I view cognition—not merely as neural activity, but as optimized solutions shaped by the ecological demands encountered over evolutionary time.
+{: .text-justify}

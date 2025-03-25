@@ -1,0 +1,69 @@
+<ul class="timeline">
+  {% for content in entry.contents %}
+    <li class="timeline-item">
+      <div class="timeline-marker">
+        <span class="badge font-weight-bold text-uppercase">{{ content.year }}</span>
+        {% if content.location %}
+          <p class="location">
+            <i class="fa-solid fa-location-dot iconlocation"></i>
+            {{ content.location }}
+          </p>
+        {% endif %}
+      </div>
+      <div class="timeline-content">
+        {% if content.title %}
+          <h6 class="title">{{ content.title }}</h6>
+        {% endif %}
+        {% if content.institution %}
+          <p class="institution">
+            <i class="fa-solid fa-building-columns iconinstitution"></i>
+            {{ content.institution }}
+          </p>
+        {% endif %}
+        {% if content.image %}
+          <div class="timeline-image">
+            <img src="{{ content.image }}" alt="{{ content.title }} image">
+          </div>
+        {% endif %}
+        {% if content.maindescription %}
+          <div class="maindescription">{{ content.maindescription }}</div>
+        {% endif %}
+        {% if content.description %}
+          <ul class="items">
+            {% for item in content.description %}
+              <li>
+                {% if item.contents %}
+                  <span class="item-title">{{ item.title }}</span>
+                  <ul class="subitems">
+                    {% for subitem in item.contents %}
+                      <li>
+                        <span class="subitem">{{ subitem }}</span>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% else %}
+                  <span class="item">{{ item }}</span>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+        {% if content.linkitems %}
+          <div class="container-links">
+            {% for item in content.linkitems %}
+              {% if item.link %}
+                <div class="container-link-button">
+                  {% if item.linkname %}
+                    <a href="{{ item.link }}" target="_blank" class="btncv">{{ item.linkname }}</a>
+                  {% else %}
+                    <a href="{{ item.link }}" target="_blank" class="btncv">doc</a>
+                  {% endif %}
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>

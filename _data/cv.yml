@@ -1,97 +1,99 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
-  type: time_table
+  type: timeline
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Montreal, Canada
+      year: 2022-Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Exploring neural computations underlying decisions to explore versus exploit, leveraging electrophysiology and computational modeling non-human primate brains.
+    - title: BS-MS
+      institution: Indian institute of science education and research, Pune
+      year: 2016-2021
 
 - title: Experience
-  type: time_table
+  type: timeline
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: AI scientist
+      institution: Endovision
+      year: 2022
+      image: /assets/img/endovision.png # <-- Path to your image
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Trained and deployed deep learning models for real-time abnormality detection during endoscopic procedures
+    - title: Lead TA for neuroscience
+      institution: Neuromatch inc.
+      year: 2022-2021
+      image: /assets/img/neuromatch.png # <-- Path to your image
       description:
-        - Description 1.
-        - Description 2.
+        - Served as a TA for a summer school, teaching computational neuroscience and deep learning to students from worldwide.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+# - title: Open Source Projects
+#   type: timeline
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Personal achievements
+  type: timeline
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Organized Sponsored Reading Club on Recurrent Neural Networks
+      institution: Université de Montréal
+      year: 2024-25
+      image: /assets/img/rnn.jpeg # <-- Path to your image
+      description:
+        - Planned and led a university-wide reading group exploring the application of recurrent neural networks in neuroscience.
+
+    - title: Completed Beneva Marathon
+      institution: Montreal, Canada
+      year: 2024
+      image: /assets/img/marathon.png # <-- Path to your image
+      description:
+        - superfun reaching a personal milestone by completing the Beneva Marathon (apparently, phd is a marathon!)
+
+    - title: Elected Member, Student Council
+      institution: IISER Pune
+      year: 2020 – 2021
+      description:
+        - Represented students, safeguarded their rights, and contributed to the development of student welfare policies.
 
 - title: Honors and Awards
-  type: time_table
+  type: timeline
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: UNIQUE Excellence Scholarship
+      institution: Interdisciplinary Research in AI & Neuroscience
+      year: 2024
+      description:
+        - Awarded a scholarship supporting interdisciplinary research and training in artificial intelligence and neuroscience for graduate students.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Scientific Outreach Grant
+      institution: Faculty of Medicine
+      year: 2023
+      description:
+        - Awarded funding to present research at the world’s largest neuroscience conference – Society for Neuroscience.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: CIRCA Outreach Scholarship
+      institution: Centre Interdisciplinaire de Recherche sur le Cerveau et l’Apprentissage (CIRCA)
+      year: 2023
+      description:
+        - Travel award granted to support interdisciplinary research presentations in brain sciences.
+
+    - title: Neural Control of Movement Diversity Fellowship
+      institution: Neural Control of Movement Conference
+      year: 2023
+      description:
+        - Travel award granted for presenting research at the Neural Control of Movement conference.
+
+    - title: Artificial Intelligence Scholarship
+      institution: Montreal Declaration for Responsible AI
+      year: 2023
+      description:
+        - Awarded to support research advancing neuroscience in alignment with the principles of responsible artificial intelligence.
+
+    - title: INSPIRE Scholarship
+      institution: Government of India
+      year: 2016 – 2021
+      description:
+        - Prestigious higher education scholarship awarded to students within the top 1% pursuing studies in the natural sciences.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

@@ -16,13 +16,13 @@
     - title: AI scientist
       institution: Endovision
       year: 2022
-      # image: /assets/img/endovision.png # <-- Path to your image
+      image: /assets/img/endovision.png # <-- Path to your image
       description:
         - Trained and deployed deep learning models for real-time abnormality detection during endoscopic procedures
     - title: Lead TA for neuroscience
       institution: Neuromatch inc.
       year: 2022-2021
-      # image: /assets/img/neuromatch.png # <-- Path to your image
+      image: /assets/img/neuromatch.png # <-- Path to your image
       description:
         - Served as a TA for a summer school, teaching computational neuroscience and deep learning to students from worldwide.
 
@@ -38,14 +38,14 @@
     - title: Organized Sponsored Reading Club on Recurrent Neural Networks
       institution: Université de Montréal
       year: 2024-25
-      # image: /assets/img/rnn.jpeg # <-- Path to your image
+      image: /assets/img/rnn.jpeg # <-- Path to your image
       description:
         - Planned and led a university-wide reading group exploring the application of recurrent neural networks in neuroscience.
 
     - title: Completed Beneva Marathon
       institution: Montreal, Canada
       year: 2024
-      # image: /assets/img/marathon.png # <-- Path to your image
+      image: /assets/img/marathon.png # <-- Path to your image
       description:
         - superfun reaching a personal milestone by completing the Beneva Marathon (apparently, phd is a marathon!)
 

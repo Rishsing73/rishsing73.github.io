@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-ho-chi-minh-trail-racing-giants-part-1",
+        },{id: "post-ho-chi-minh-trail-racing-giants-pt-2-phong-nha",
+      
+        title: "Ho Chi Minh Trail Racing Giants Pt 2: Phong Nha",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/HCMC-racing-giantspt2/";
+        
+      },
+    },{id: "post-ho-chi-minh-trail-racing-giants-part-1",
       
         title: "Ho Chi Minh trail racing giants: Part 1",
       

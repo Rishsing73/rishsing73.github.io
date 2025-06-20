@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 blog_name: "Brainpeek" # Display name for your blog
 blog_description:
 permalink: /blog/:year/:title/
-lsi: true # Enable Latent Semantic Indexing for related posts
+lsi: false # Enable Latent Semantic Indexing for related posts
 
 # Pagination
 pagination:

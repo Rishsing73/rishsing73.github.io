@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-ho-chi-minh-trail-racing-giants-pt-2-phong-nha",
+        },{id: "post-the-best-goodbyes",
+      
+        title: "The best goodbyes",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/best-goodbyes/";
+        
+      },
+    },{id: "post-ho-chi-minh-trail-racing-giants-pt-2-phong-nha",
       
         title: "Ho Chi Minh Trail Racing Giants Pt 2: Phong Nha",
       
@@ -45,11 +56,11 @@ ninja.data = [{
           window.location.href = "/blog/2025/HCMC-racing-giants/";
         
       },
-    },{id: "books-the-godfather",
-          title: 'The Godfather',
+    },{id: "books-foundational-papers-in-complexity-science-part-1",
+          title: 'Foundational Papers in Complexity Science Part 1',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/foundational/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",

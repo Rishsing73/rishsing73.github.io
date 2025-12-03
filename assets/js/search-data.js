@@ -61,16 +61,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/foundational/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-best-phd-poster-award-at-unique-retreat-congratulations-to-my-best-friend-vj-on-my-left-right-arrow-for-winning-best-poster-in-masters-category-it-was-a-lot-of-fun-and-learning-experience",
+          title: 'Best PhD poster award at UNIQUE retreat. Congratulations!! 🥳🥳🥳 to my best friend...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-my-first-scientific-talk-at-world-s-biggest-neuroscience-conference-society-for-neuronscience-sfn-2025-a-lot-of-amazing-scientists-from-many-places-came-together-to-showcase-their-work-including-me-in-addition-this-was-my-first-time-organising-a-symposium-at-such-level-thanks-to-the-support-of-my-pi-it-was-a-whelming-but-worth-it-experience",
+          title: 'My first scientific talk at world’s biggest neuroscience conference - Society for Neuronscience...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

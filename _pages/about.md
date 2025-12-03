@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -34,8 +34,8 @@ I frame my research around three core questions—<span class="highlighted">What
 🧠 <span class="highlighted">WHAT? </span> The central problem I’m addressing in my PhD is exploration. We all explore and try new things, often taking risks—sometimes out of boredom, and sometimes out of necessity. But is there a specific brain circuit responsible for this behavior?
 {: .text-justify}
 
-🧠 <span class="highlighted">HOW? </span> If there is indeed a brain circuit explicitly responsible for exploration, how does it work? To engage in exploration, the brain must monitor internal states such as hunger, arousal, or emotional state, as well as external factors like uncertainty or novelty in the environment. How are these diverse sources of information transformed and integrated to drive decisions about when and how to explore?
+🧠 <span class="highlighted">HOW? </span> If there is indeed a brain circuit explicitly responsible for exploration, how does it work? To engage in exploration, the brain must monitor internal states such as hunger, arousal, or emotional state, as well as external factors like uncertainty or novelty in the environment. How does brain cirbuits carry such diverse sources of information and integrate it to make decisions of when to explore?
 {: .text-justify}
 
-🧠 <span class="highlighted">WHY? (Computational Level)</span> At the broadest level, I’m interested in why evolution favored these particular cognitive strategies in the first place. What kinds of adaptive problems made it useful for a brain to sometimes stick with the known and other times dive into the unknown? These evolutionary questions sit outside the core of my PhD work, but they shape how I think about the brain—not just as a system that computes, but as one that’s been optimized over time to solve the kinds of problems our ancestors regularly faced.
+🧠 <span class="highlighted">WHY? (Computational Level)</span> At a broad level, I’m interested in why evolution favored these particular cognitive strategies in the first place. What kinds of adaptive problems made it useful for a brain to sometimes stick with the known and other times dive into the unknown? These evolutionary questions sit outside the core of my PhD work, but they shape how I think about the brain—not just as a system that computes, but as one that’s been optimized over time to solve the kinds of problems our precursors regularly faced.
 {: .text-justify}

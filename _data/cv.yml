@@ -4,10 +4,12 @@
     - title: PhD
       institution: University of Montreal, Canada
       year: 2022-Now
+      image: /assets/img/udem.png
       description:
-        - Exploring neural computations underlying decisions to explore versus exploit, leveraging electrophysiology and computational modeling non-human primate brains.
+        - Trying to understand neural computations underlying sequential decisions making - "persistance and flexibility". I do this by leveraging electrophysiology and electrical stimulation in non-human primate brains.
     - title: BS-MS
       institution: Indian institute of science education and research, Pune
+      image: /assets/img/iiser.png
       year: 2016-2021
 
 - title: Experience
@@ -35,6 +37,18 @@
 - title: Personal achievements
   type: timeline
   contents:
+    - title: Scientific talk at SfN 2025
+      institution: SfN 2025
+      year: 2025
+      image: /assets/img/sfn.png # <-- Path to your image
+      description: Gave my first conference talk at the same nanosymposium, SfN 2025. It marks a significant moment in my scientific career.
+
+    - title: Chaired nanosymposium SfN 2025
+      institution: SfN 2025
+      year: 2025
+      image: /assets/img/sfn.png # <-- Path to your image
+      description: Organised and chaired a nanosymposium (14 speakers) at world's biggest neuroscience conference "SfN" 2025. The topic was adaptive choice.
+
     - title: Organized Sponsored Reading Club on Recurrent Neural Networks
       institution: Université de Montréal
       year: 2024-25
@@ -58,9 +72,23 @@
 - title: Honors and Awards
   type: timeline
   contents:
+    - title: UNIQUE best poster award
+      institution: UNIQUE
+      year: 2025
+      image: /assets/img/unique_logo.png
+      description:
+        - Best PhD poster award at UNIQUE retreat.
+    - title: UNIQUE travel grant
+      institution: Travel award for AI & neuroscience
+      year: 2025
+      image: /assets/img/unique_logo.png
+      description:
+        - A travel award to present my work at SfN 2025.
+
     - title: UNIQUE Excellence Scholarship
       institution: Interdisciplinary Research in AI & Neuroscience
       year: 2024
+      image: /assets/img/unique_logo.png
       description:
         - Awarded a scholarship supporting interdisciplinary research and training in artificial intelligence and neuroscience for graduate students.
 

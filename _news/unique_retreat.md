@@ -12,4 +12,4 @@ related_posts: false
   style="float: right; margin-left: 15px;" 
 />
 
-> Best PhD poster award at UNIQUE retreat. Congratulations!! 🥳🥳🥳 to my best friend VJ on my left (right arrow) for winning best poster in masters category. It was a lot of fun and learning experience.
+> Best PhD poster award at UNIQUE retreat. Congratulations!! 🥳🥳🥳 to my best friend VJ on my left (red arrow) for winning best poster in masters category. It was a lot of fun and learning experience.

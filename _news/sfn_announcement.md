@@ -6,13 +6,20 @@ related_posts: false
 ---
 
 <img 
-  src="/assets/img/nano_speaker.jpg" 
+  src="/assets/img/IMG_sfn.jpg" 
   alt="A rare moment of me being serious." 
-  width="25%" 
+  width="30%" 
   style="float: right; margin-left: 15px;" 
 />
 
-> My first scientific talk at world's biggest neuroscience conference - <span class="highlighted">Society for Neuronscience<span> (SfN) 2025. A lot of amazing scientists from many places came together to showcase their work (including me 😃). In addition, this was my first time organising a symposium at such level thanks to the support of my PI. It was a whelming but worth it experience.
+<img 
+  src="/assets/img/nano_speaker.jpg" 
+  alt="A rare moment of me being serious." 
+  width="30%" 
+  style="float: right; margin-left: 15px;" 
+/>
+
+> My first scientific talk at world's biggest neuroscience conference - <span class="highlighted">Society for Neuronscience<span> (SfN) 2025. A lot of amazing scientists from many places came together to showcase their work (including me). In addition, this was my first time organising a symposium at such level thanks to the support of my PI. It was a whelming but worth it experience.
 
 <!-- <p align="left">
   <img src="/assets/img/nano_speaker.jpg" alt="A rare moment of me being serious." width="20%" />

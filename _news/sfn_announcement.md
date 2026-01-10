@@ -6,7 +6,7 @@ related_posts: false
 ---
 
 <img 
-  src="/assets/img/IMG_sfn.jpg" 
+  src="/assets/img/IMG_sfn.JPG" 
   alt="A rare moment of me being serious." 
   width="30%" 
   style="float: right; margin-left: 15px;" 

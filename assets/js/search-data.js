@@ -4,13 +4,13 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "About",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-blogs",
+          title: "blogs",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -22,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-readings",
+          title: "readings",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
           },
         },{id: "post-the-best-goodbyes",
       
@@ -56,11 +63,16 @@ ninja.data = [{
           window.location.href = "/blog/2025/HCMC-racing-giants/";
         
       },
-    },{id: "books-foundational-papers-in-complexity-science-part-1",
-          title: 'Foundational Papers in Complexity Science Part 1',
+    },{id: "books-the-dark-forest-the-three-body-problem-pt-2",
+          title: 'The Dark Forest (The Three-Body Problem: Pt 2)',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/foundational/";
+              window.location.href = "/books/dark_forest/";
+            },},{id: "books-a-history-of-the-world-in-6-glasses",
+          title: 'A History of the World in 6 Glasses',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/history_world_glasses/";
             },},{id: "news-best-phd-poster-award-at-unique-retreat-congratulations-to-my-best-friend-vj-on-my-left-red-arrow-for-winning-best-poster-in-masters-category-it-was-a-lot-of-fun-and-learning-experience",
           title: 'Best PhD poster award at UNIQUE retreat. Congratulations!! 🥳🥳🥳 to my best friend...',
           description: "",

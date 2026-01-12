@@ -1,11 +1,11 @@
 ---
 layout: book-shelf
-title: Books
+title: readings
 permalink: /books/
-nav: false
-published: false
+nav: True
+published: True
 nav_order: 3
 collection: books
 ---
 
-Here are some of the books I've been reading. You can find my reviews and ratings below.
+Books are the cheapest way to travel. Maybe something here will catch your eye as well and make it to your reading list.

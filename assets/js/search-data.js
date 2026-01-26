@@ -73,6 +73,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/history_world_glasses/";
+            },},{id: "books-statistical-inference-computer-age",
+          title: 'Statistical Inference Computer Age',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/stats_book/";
             },},{id: "news-best-phd-poster-award-at-unique-retreat-congratulations-to-my-best-friend-vj-on-my-left-red-arrow-for-winning-best-poster-in-masters-category-it-was-a-lot-of-fun-and-learning-experience",
           title: 'Best PhD poster award at UNIQUE retreat. Congratulations!! 🥳🥳🥳 to my best friend...',
           description: "",

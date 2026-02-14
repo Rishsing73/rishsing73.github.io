@@ -11,4 +11,4 @@ date: 2026-01-11
 tags: [history]
 ---
 
-> coming soon...
+> The book covers topics that one might not expect. I really enjoyed the part of beer as payment to working class in egypt because beer is more stable commodity than bread. How greeks and romans had the monopoly on wine because of winery suitable land. The role of spirits in colonialism and slavery and why Boston is home of breweris. The coffee place turning into stock exchange of the London. Overall pretty nice stories.

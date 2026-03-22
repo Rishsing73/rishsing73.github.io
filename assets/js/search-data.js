@@ -78,6 +78,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/stats_book/";
+            },},{id: "books-livewired-the-inside-story-of-the-ever-changing-brain",
+          title: 'Livewired: The Inside Story of the Ever-Changing Brain',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/livedwire/";
             },},{id: "news-best-phd-poster-award-at-unique-retreat-congratulations-to-my-best-friend-vj-on-my-left-red-arrow-for-winning-best-poster-in-masters-category-it-was-a-lot-of-fun-and-learning-experience",
           title: 'Best PhD poster award at UNIQUE retreat. Congratulations!! 🥳🥳🥳 to my best friend...',
           description: "",
